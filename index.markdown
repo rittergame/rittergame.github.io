@@ -4,3 +4,10 @@
 
 layout: home
 ---
+Rittergame
+
+Hier entsteht die neue Webseite des Rittergames.
+
+Webmaster: webmaster@rittergame.ch
+
+Info: info@rittergame.ch
